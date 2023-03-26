@@ -42,9 +42,9 @@ Hi, I’m @cansuyilmazz. I have a Sociology Degree.
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yasin-Yilmazz&show_icons=true&theme=radical&locale=en&layout=compact" alt="Yasin-Yilmazz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yasin-Yilmazz&show_icons=true&theme=radical&locale=en&layout=compact" alt="cansuyilmazz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yasin-Yilmazz&show_icons=true&theme=dark&locale=en" alt="Yasin-Yilmazz" width="50%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cansuyilmazz&show_icons=true&theme=dark&locale=en" alt="cansuyilmazz" width="50%" /></p>
 
-![](https://komarev.com/ghpvc/?username=Yasin-Yilmazz) 
+![](https://komarev.com/ghpvc/?username=cansuyilmazz) 
 
