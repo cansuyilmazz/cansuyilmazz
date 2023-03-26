@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**cansuyilmazz/cansuyilmazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi, I’m @cansuyilmazz. I have a Sociology Degree.
 
@@ -15,7 +11,6 @@ Hi, I’m @cansuyilmazz. I have a Sociology Degree.
 
 📫 LinkedIn --> https://www.linkedin.com/in/cansu-yılmaz-69b2a816a/
 
--->
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
